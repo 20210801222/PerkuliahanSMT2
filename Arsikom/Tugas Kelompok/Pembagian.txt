@@ -1,0 +1,28 @@
+1. Slot Processor
+2. ATX Power
+3. Northbridge
+4. Slot RAM
+5. Port SATA
+6. Slot PCI-E
+7. Southbridge
+8. Port PS/2
+9. Port Paralel
+10. Port Serial
+11. Port VGA
+12. Port USB
+13. Port RJ-45
+14. Battery CMOS
+15. Port Audio
+16. Port CPU Fan
+17. Pin Front Panel
+18. Motherboard : Gigabyte GA-G31M-ES2C
+19. RAM 1 : V-GEN DDR2 2GB PC-6400
+20. RAM 2 : KINGSTON 99U5431-021.A00LF
+21. VGA : NVIDIA GeForce GT 730
+22. CPU : INTEL CORE DUO E7500 2.93 GHZ
+23. CPU FAN : Intel D34223-002 Socket 775 Aluminum Heat Sink & 3" Fan
+24. HardDisk : Toshiba DT01ACA100 HDD 1TB
+
+Iqbal Hamdan : 1-4
+Arif : 5-8
+Aji : 9-12
